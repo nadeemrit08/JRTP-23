@@ -13,5 +13,7 @@ public class App
 
         String s ="hi";
         System.out.println( "Hello World!" );
+		System.out.println(i);
+		System.out.println(s);
     }
 }
